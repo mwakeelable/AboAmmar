@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ابــو عمــار</string>
+    <string name="app">Abu Ammar</string>
+    <string name="tab1">الرئيســية</string>
+    <string name="tab2">المفضــلة</string>
+
+    //Home
+    <string name="category1">هواتف محمولة</string>
+    <string name="category2">كمبيوتر محمول</string>
+    <string name="category3">اكسسوارات موبايل</string>
+    <string name="category4">اكسسوارات كمبيوتر</string>
+    <string name="category5">اجهزة الكترونية</string>
+    <string name="category6">Orange Shop</string>
+    <string name="title_activity_login">تســجيل الدخول</string>
+    <string name="title_activity_register">التســجيل</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+
+    //Navigation Menu
+    <string name="welcome">Welcome</string>
+    <string name="btn_login">تســجيل الدخول</string>
+    <string name="btn_register">التسـجيل</string>
+    <string name="nav_main">الـرئـيســـــــية</string>
+    <string name="nav_item1">هواتـف محمـولة</string>
+    <string name="nav_item2">كمبيوتر محمــول</string>
+    <string name="nav_item3">اجـهوة الكترونية</string>
+    <string name="nav_item4">اكسـســـــوارات</string>
+    <string name="nav_item5">عن ابو عمـــار</string>
+    <string name="nav_item6">حســابك</string>
+    <string name="nav_item7">تسجيل الخروج</string>
+    <string name="nav_sub_menu">Advanced</string>
+
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="logout">Logout</string>
+
+
+</resources>

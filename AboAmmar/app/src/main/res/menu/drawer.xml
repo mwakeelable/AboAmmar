@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="end"
+    android:gravity="end"
+    android:layoutDirection="rtl">
+
+    <group
+        android:layout_gravity="end"
+        android:checkableBehavior="single"
+        android:gravity="end">
+
+        <item
+            android:id="@+id/nav_main"
+            android:checked="false"
+            android:title="@string/nav_main"
+            android:icon="@drawable/home"></item>
+        <item
+            android:id="@+id/nav_item_1"
+            android:checked="false"
+            android:title="@string/nav_item1"
+            android:icon="@drawable/iphone"/>
+        <item
+            android:id="@+id/nav_item_2"
+            android:checked="false"
+            android:title="@string/nav_item2"
+            android:icon="@drawable/laptop"/>
+        <item
+            android:id="@+id/nav_item_3"
+            android:checked="false"
+            android:title="@string/nav_item3"
+            android:icon="@drawable/airplay"/>
+        <item
+            android:id="@+id/nav_item_4"
+            android:checked="false"
+            android:title="@string/nav_item4"
+            android:icon="@drawable/headphones"/>
+    </group>
+
+    <item android:title="@string/nav_sub_menu">
+        <menu>
+
+            <item
+                android:id="@+id/nav_item_5"
+                android:checked="false"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="@string/nav_item5" />
+            <item
+                android:id="@+id/nav_item_6"
+                android:checked="false"
+                android:icon="@drawable/ic_account_circle_black_24dp"
+                android:title="@string/nav_item6" />
+            <item
+                android:id="@+id/nav_item_7"
+                android:checked="false"
+                android:icon="@drawable/ic_power_settings_new_black_24dp"
+                android:title="@string/nav_item7" />
+        </menu>
+    </item>
+</menu>
